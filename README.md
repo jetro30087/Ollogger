@@ -40,7 +40,7 @@ A powerful, flexible logging application that helps users create custom AI-power
 1. Clone the repository:
    ```bash
    git clone https://github.com/jetro30087/Ollogger
-   cd Olloger-main
+   cd Olloger
    ```
 
 2. Install dependencies:
