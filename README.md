@@ -7,7 +7,7 @@ A powerful, flexible logging application that helps users create custom AI-power
 
 - **Custom Logging Assistants**: Create specialized AI assistants tailored to your specific logging needs
 - **Multiple Log Management**: Create and manage multiple logs per assistant
-- **Rich Media Support**:
+- **Multimodal Input Support**:
   - Voice input with transcription (OpenAI Whisper or local Whisper.cpp)
   - Image analysis and logging
   - Markdown formatting support
@@ -23,7 +23,7 @@ A powerful, flexible logging application that helps users create custom AI-power
   - Real-time message streaming
   - Markdown formatting
   - Dark/light mode support
-- **Calendar Integration**: Set reminders for logging tasks
+- **Google Calendar Integration**: Set reminders for logging tasks
 
 ## Getting Started
 
@@ -31,6 +31,7 @@ A powerful, flexible logging application that helps users create custom AI-power
 
 - Node.js 18 or higher
 - npm or yarn
+- (Optional) OpenAI Account with API Key
 - (Optional) Ollama for local AI support
 - (Optional) Whisper.cpp for local voice transcription
 
@@ -83,7 +84,7 @@ A powerful, flexible logging application that helps users create custom AI-power
 
 ### Managing Logs
 
-- Create new logs using the "+" button in the sidebar
+- Create new logs using the "+Create Assistant" button in the sidebar
 - Switch between logs using the sidebar
 - Rename or delete logs as needed
 - Export logs in JSON or CSV format
