@@ -22,7 +22,6 @@ A powerful, flexible logging application that helps users create custom AI-power
   - Intuitive chat interface
   - Real-time message streaming
   - Markdown formatting
-  - Dark/light mode support
 - **Google Calendar Integration**: Set reminders for logging tasks
 
 ## Getting Started
